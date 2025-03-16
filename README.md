@@ -38,7 +38,7 @@ fzf	終端模糊搜索（快速選擇目錄）
 
 📌 3️⃣ 設定 GitHub Personal Access Token (PAT)
 
-🔹 產生 GitHub Token
+🔹 產生 GitHub Token (https://github.com/settings/tokens)
 	1.	進入 GitHub Token 設定頁面：GitHub Developer Settings
 	2.	點擊 "Generate new token (classic)"
 	3.	選擇必要的權限：
