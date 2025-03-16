@@ -63,8 +63,8 @@ set_git_remote() {
       github_pat="$GITHUB_PAT_TARODE"
       ;;
     *)
-      echo "⚠️ 未知的 Git 目錄，跳過 Remote 設定"
-      return
+      echo "⚠️  未知的 Git 目錄，使用 GitHub Lucien 帳號"
+      github_pat="$GITHUB_PAT_LUCIEN"
       ;;
   esac
 
